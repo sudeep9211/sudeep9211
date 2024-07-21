@@ -19,6 +19,7 @@
 ### My Experiences 🙌
 2 Years of experience working in Python.
 - Developed API’s, wrote unit tests and border driven development tests. Also worked on Cloud Custodian policies using yaml.
+- Worked on multiple AWS Services such as IAM, EC2, S3, RDS, DynamoDB, ELB, Secrets Manager etc.
 - Handled end to end release process – Raised Change Management requests on SNOW, Monitored the Jenkins build and handled code deployment to production. 
 - Agile delivery experience, collaborating closely with senior product managers, engineering managers, engineers,  
 - Proven ability to quickly learn and apply new technologies that translate requirements into client-focused solutions. 
