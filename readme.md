@@ -20,7 +20,8 @@
 2 Years of experience working in Python.
 - Developed API’s, wrote unit tests and border driven development tests. Also worked on Cloud Custodian policies using yaml.
 - Worked on multiple AWS Services such as IAM, EC2, S3, RDS, DynamoDB, ELB, Secrets Manager etc.
-- Handled end to end release process – Raised Change Management requests on SNOW, Monitored the Jenkins build and handled code deployment to production. 
+- Handled end to end release process – Raised Change Management requests on SNOW, Monitored the Jenkins build and handled code deployment to production.
+- Wrote ETL Jobs, used AWS Glue to run jobs, analyzed the source data. 
 - Agile delivery experience, collaborating closely with senior product managers, engineering managers, engineers,  
 - Proven ability to quickly learn and apply new technologies that translate requirements into client-focused solutions. 
 - Good working knowledge Agile methodology. 
@@ -28,6 +29,7 @@
 - Lead a team of four as Offshore Lead.
 
 ### Certfications & Awards 🏅
+- AWS Certified Developer Associate (DVA-C02)
 - Azure Fundamentals (AZ-900)
 - On the spot Award
 - Star of the Month Award
