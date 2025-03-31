@@ -13,20 +13,20 @@
 <br />
 
 ### About Me 🚀
-💼 Experienced Python developer with 2+ years specializing in scalable applications and AWS cloud solutions. </br>
-👨‍💻 I am passionate about Python, AWS, Machine Learning, DevOps & I enjoy learning new things. </br>
+💼 Experienced AWS Data Engineer with 2+ years specializing in scalable applications, data pipelines, and AWS cloud solutions. </br>
+👨‍💻 I am passionate about Python, AWS, Data Engineering, Machine Learning & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
 2 Years of experience working in Python.
-- Developed API’s, wrote unit tests and border driven development tests. Also worked on Cloud Custodian policies using yaml.
-- Worked on multiple AWS Services such as IAM, EC2, S3, RDS, DynamoDB, ELB, Secrets Manager etc.
-- Handled end to end release process – Raised Change Management requests on SNOW, Monitored the Jenkins build and handled code deployment to production.
-- Wrote ETL Jobs, used AWS Glue to run jobs, analyzed the source data. 
-- Agile delivery experience, collaborating closely with senior product managers, engineering managers, engineers,  
-- Proven ability to quickly learn and apply new technologies that translate requirements into client-focused solutions. 
-- Good working knowledge Agile methodology. 
-- Ability to multi-task in a fast-paced environment and to work independently or collaboratively.
-- Lead a team of four as Offshore Lead.
+- **Led the design and implementation** of healthcare data solutions on AWS, utilizing services such as **S3, EC2, PostgreSQL, Glue, CloudWatch, Lambda, EventBridge, Secrets Manager, SNS, SQS, CloudFormation, and IAM**.  
+- **Developed and maintained ETL/ELT pipelines** using **Python, PySpark, and Boto3**, processing large-scale healthcare data by filtering, applying business rules, and transforming it into **Parquet** format for destination systems.  
+- **Implemented real-time data streaming** solutions with **Kinesis**, ensuring efficient data ingestion and processing in the medical domain.
+- **Implemented PII detection and masking** for **Red data** of the client using **Amazon Comprehend**, ensuring sensitive information was identified and protected in compliance with data privacy standards.  
+- **Collaborated with customers/onsite teams**, actively involved in **requirement gathering** and aligning solutions with business needs.  
+- **Wrote and optimized AWS Glue ETL jobs**, analyzing source data and ensuring efficient data transformation and loading.  
+- **Applied Agile methodologies**, working closely with product managers, engineering teams, and stakeholders to deliver scalable solutions.  
+- **Led a team of four** as an Offshore Lead, ensuring timely delivery and code quality.  
+- **Proven ability to quickly learn and apply new technologies**, translating business requirements into client-focused solutions.
 
 ### Certfications & Awards 🏅
 - AWS Certified Developer Associate (DVA-C02)
