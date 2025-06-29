@@ -17,7 +17,7 @@
 👨‍💻 I am passionate about Python, AWS, Data Engineering, Machine Learning & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-2 Years of experience working in Python.
+3 Years of experience working in Python.
 - **Led the design and implementation** of healthcare data solutions on AWS, utilizing services such as **S3, EC2, PostgreSQL, Glue, CloudWatch, Lambda, EventBridge, Secrets Manager, SNS, SQS, CloudFormation, and IAM**.  
 - **Developed and maintained ETL/ELT pipelines** using **Python, PySpark, and Boto3**, processing large-scale healthcare data by filtering, applying business rules, and transforming it into **Parquet** format for destination systems.  
 - **Implemented real-time data streaming** solutions with **Kinesis**, ensuring efficient data ingestion and processing in the medical domain.
