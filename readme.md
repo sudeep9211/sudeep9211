@@ -30,6 +30,7 @@
 
 ### Certfications & Awards 🏅
 - AWS Certified Developer Associate (DVA-C02)
+- AWS Certified Data Engineer Associate (DEA-C01)
 - Azure Fundamentals (AZ-900)
 - On the spot Award
 - Star of the Month Award
